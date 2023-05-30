@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+    height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: blue;
+    }
+    
+	
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+	    display: flex;
+		justify-content: center;
+		align-items: center;
+    }
+    
+    form {
+	  margin-left: auto;
+	  margin-right: auto;
+      max-width: 600px;
+     background-color: rgba(245, 212, 39, 0.24);
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    
+    input[type="text"],
+    input[type="number"],
+    select {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-bottom: 10px;
+    }
+    
+    input[type="file"] {
+      margin-top: 5px;
+    }
+	
+	i[type="button"],
+    input[type="submit"]{
+      background-color: rgba(95, 67, 46, 0.76);
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+	
+    button[type="button"],
+    input[type="submit"] {
+      background-color: rgba(95, 67, 46, 0.76);
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    button[type="button"]:hover,
+    input[type="submit"]:hover {
+       background-color: rgba(95, 67, 46, 0.76);
+    }
+    
+    .cargo-container {
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      border-radius: 4px;
+    	background-color: blue;
+    }
+    
+    h3 {
+      color: #555;
+      margin-top: 0;
+    }
+	
+	.element {
+  border: 1px solid red;
+}
+  </style>
+</head>
+<body>
+  <!-- Formularz -->
+</body>
+</html>
