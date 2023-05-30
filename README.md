@@ -1,8 +1,8 @@
-# Formulaz_przewozu
+# Formularz_przewozu
 
 ## Plik HTML otworzyć w przeglądarce internetowej
 
-### Utworzony formulaż wysyłania towaru
+### Utworzony formularz wysyłania towaru
 ### Pola dla kolejnego ładunku dodawane dynamicznie
 ### Transport towaru odbywa się tylko od poniedziałku do piątku
 ### Ograniczenia ciężaru jednego ładunku   
