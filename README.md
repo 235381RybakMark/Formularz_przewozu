@@ -1,6 +1,6 @@
 # Formulaz_przewozu
 
-##Plik HTML otworzyć w przeglądarce internetowej
+## Plik HTML otworzyć w przeglądarce internetowej
 
 ### Utworzony formulaż wysyłania towaru
 ### Pola dla kolejnego ładunku dodawane dynamicznie
